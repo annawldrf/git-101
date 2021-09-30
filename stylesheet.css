@@ -1,20 +1,18 @@
+ body{
+ 	margin: 0;
+ 	font-family:  Helvetica;
+ }
 
-body {
-	margin: 0;
-	font-family: helvetica;
-}
+ #logo {
+ 	height:  80px;
+ 	width:  80;
+ 	border-radius: 15px;
+ }
 
-#logo {
-	height: 80px;
-	width: 90px;
-	border-radius: 25px;
-	margin: 10px;
-}
-
-#container {
-	display:  flex;
-	align-items: center;
-	justify-content: center;
-	height:  100vh;
-	flex-direction: column;
-}
+ #container {
+ 	display:  flex;
+ 	align-items: center;
+ 	justify-content: center;
+ 	height: 100vh;
+ 	flex-direction: column;
+ }
